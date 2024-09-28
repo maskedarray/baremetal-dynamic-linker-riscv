@@ -2,3 +2,6 @@
 *.o
 *.txt
 .history/*
+*.bin
+*.asm
+.vscode/*
